@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background: grey;
+  padding: 2rem;
+}
+.question {
+  background: blue;
+  max-width: 100vh;
+}
